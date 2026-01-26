@@ -7,5 +7,3 @@ Ed_Kuro(X).exe 为黎之轨迹系列
 Ed_Sora_1st.exe 为空轨1st。
 
 以上工具的源码均在Github仓库中保存，如有大佬愿意指点一二随时欢迎来合作开发。
-
-Fucking Google nooooob anti virus.
