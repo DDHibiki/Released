@@ -1,0 +1,11 @@
+该仓库仅用于分享发布 适用于 英雄传说·零之轨迹·改 ~ 空之轨迹1st 系列游戏的修改器 - 辉之环。
+GS_G2.exe为合集版。
+Ed_San(X).exe 为闪之轨迹系列。
+Ed_Zero.exe 为零之轨迹·改（不包含原版）
+Ed_Ao.exe 为碧之轨迹·改(不包含原版）
+Ed_Kuro(X).exe 为黎之轨迹系列
+Ed_Sora_1st.exe 为空轨1st。
+
+以上工具的源码均在Github仓库中保存，如有大佬愿意指点一二随时欢迎来合作开发。
+
+Fucking Google nooooob anti virus.
